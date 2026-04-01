@@ -3,7 +3,7 @@
 A complete e-commerce web application built with the MERN stack (MongoDB, Express, React, Node.js).
 
 ## Live Demo
-Coming soon after deployment
+https://snapcart-orpin-nine.vercel.app
 
 ## Features
 - Browse products with search and category filter
